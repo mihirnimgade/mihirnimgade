@@ -1,4 +1,13 @@
-### Hi there 👋
+``` 
+ ____________________________
+< Welcome to my Github page! >
+ ----------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
 
 <!--
 **mihirnimgade/mihirnimgade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

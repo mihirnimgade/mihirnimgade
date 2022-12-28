@@ -1,7 +1,7 @@
 ```                                                                                               
  ______________________________________________________________                                  *                   *      
 / Welcome to my Github page!                                    \          *                       
-|                                                               |                                                                             *
+|                                                               |                                                        
 | I'm currently working on...                                   |
 |                                                               |                                                              
 | - A global optimization algorithm based on hypercube scaling  |                                             *               
@@ -13,7 +13,7 @@
 |  - Automata theory                                            |          *
 |  - Hardware design on FPGAs                                   |                                       *            
 \  - RTOS application design on embedded systems                /
- ---------------------------------------------------------------                                                                       *
+ ---------------------------------------------------------------                                                             
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\

@@ -6,7 +6,8 @@
 |                                                               |                                                              
 | - A global optimization algorithm based on hypercube scaling  |                                             *               
 |   and displacement written in Rust                            |               *                                       
-| - A live radio-based telemetry link for UBC Solar             |
+| - A test management server that enables concurrent test       |
+|   dispatch, queuing, and monitoring for Astera Labs           |
 |                                                               |
 |  I'm currently learning...                                    |
 |                                                               |                             *
